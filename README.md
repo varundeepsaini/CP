@@ -1,4 +1,4 @@
-# Competitive Programming Questions
+# Competitive Programming
 # Codeforces Questions
 #514A Chewbaсca and Number
 #282A Bit ++
