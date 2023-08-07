@@ -15,6 +15,6 @@
 #112A Petya and Strings
 
 
-// Gave Codeforces Round 890 (Div. 2) Solved 0 out of 1 questions, upsolved 1 question
+// Gave Codeforces Round 890 (Div. 2) Solved 0 out of 5 questions, upsolved 1 question
 
 #1856A Tales of a Sort
