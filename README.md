@@ -12,4 +12,9 @@
 
 #50A Domino Piling
 
-#112A Petva and Strings
+#112A Petya and Strings
+
+
+// Gave Codeforces Round 890 (Div. 2) Solved 0 out of 1 questions, upsolved 1 question
+
+#1856A Tales of a Sort
