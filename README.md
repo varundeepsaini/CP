@@ -66,3 +66,75 @@
 #1303A Erasing Zeroes
 
 #1095A Repeating Cipher
+
+#1895A Plus and Multiply
+
+#1858A Buttons
+
+#1858C Yet Another Permutation Problem
+
+#1860A Not a substring
+
+#1551A Polycarp and Coins
+
+#1542A Odd Set 
+
+#1850A To My Critics
+
+#1850B Ten Words of Wisdom
+
+#1850C Word on Paper
+
+#1850D Balanced Round
+
+#1850E Balanced Round
+
+#1850F We were both children
+
+#1537A Arithmetic Array
+
+#1A Thetre Square
+
+#263A Beautiful Matrix
+
+#1857B Maximum Rounding
+
+#1829A Love Story
+
+#1829B Blank Space
+
+#1829C Mr Perfectly Fine
+
+#1829D Gold Rush
+
+#1829E The Lakes
+
+#1846A Rudolph and Cut the Rope
+
+#1846B Rudolph and Tic-Tac-Toe
+
+#1846C Rudolph and the Another Competition
+
+#1862A Gift Carpet
+
+#1862B Sequence Game
+
+#1862C City FLower Fence
+
+#469701B Sequence of Primes
+
+#469701A Multiple score
+
+#469701E Largest Integer Solution
+
+#469701C Alice in Pyramid
+
+#469701D Ice Cream Balls 
+
+#469701F The Final Assignment
+
+#1864A Increasing and Decreasing
+
+#1864B Swap and Reverse
+
+#158A Next Round
