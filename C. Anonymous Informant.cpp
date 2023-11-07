@@ -55,27 +55,28 @@ void solve()
     int maxx = *max_element(all(a));
     int minn = *min_element(all(a));
     
-    if(maxx - minn >= n){
-        vi b;   
-        bool odd = false;
-        bool even = false;
-        for(auto &i : a){
-            if(i < n){
-                b.pb(i);
-                if(i&1) odd = true;
-                else even = true;
-            }
-        }
-
-        if(odd && even){
-            cout << "Yes" << endl;
-            return;
-        }else{
-            cout << "No" << endl;
-            return;
-        }
-    }else{
+    if(minn >= n){
         cout << "Yes" << endl;
+        return;
+    }
+
+    vi b;   
+    bool odd = false;
+    bool even = false;
+    for(auto &i : a){
+        if(i < n){
+            b.pb(i);
+            if(i&1) odd = true;
+            else even = true;
+        }
+    }
+
+    if(odd && even){
+        cout << "Yes" << endl;
+        return;
+    }else{
+        cout << "No" << endl;
+        return;
     }
 
 }  
